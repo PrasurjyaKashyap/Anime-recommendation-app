@@ -56,7 +56,7 @@ export default function App() {
     <div className="App">
       <div class="header">
         <h1>Anime Recommendation App</h1>
-        <h3>Looking for badass animes? Have a look at our collection!</h3>
+        <h3>Looking for badass animes ? Have a look at our collection !</h3>
       </div>
       <div>
         {Object.keys(animeLibrary).map((category) => {
